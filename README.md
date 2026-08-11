@@ -6,3 +6,4 @@ https://github.com/u23urwurhuih/Fork84623/blob/main/q1/ctskillsSection_Beryllium
 
 **zodiac**:
 https://github.com/u23urwurhuih/Fork84623/edit/main/zodiacSection_Beryllium.py
+https://github.com/u23urwurhuih/Fork84623/edit/main/zodiacSection_Beryllium.md
