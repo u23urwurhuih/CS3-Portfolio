@@ -1,3 +1,8 @@
-Enter file contents there.
+**github repository**:
+https://github.com/u23urwurhuih/Fork84623/
 
-Bery
+**ctskills**:
+
+**zodiac**:
+https://github.com/u23urwurhuih/Fork84623/edit/main/zodiacSection_Beryllium.py
+https://github.com/u23urwurhuih/Fork84623/
