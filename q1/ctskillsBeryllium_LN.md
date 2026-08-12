@@ -65,8 +65,20 @@ Example Solution:
 
 
 
-**Pseudocode**:
-
  Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
+**Pseudocode** (Sub-problem 3 = Algorithm):
 
+INPUT food item, quantity of food item
+food_prices: 
+ Rice: 12
+ Pork: 50
+ Chicken: 40
+
+total_cost = food item price * quantity of food item
+
+INPUT given money
+change = total_cost - money
+
+PRINT total_cost
+PRINT change
 
