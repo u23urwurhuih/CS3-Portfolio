@@ -1,9 +1,9 @@
 **github repository**:
-https://github.com/u23urwurhuih/Fork84623/
+https://github.com/u23urwurhuih/CS3-Portfolio/
 
 **ctskills**:
-https://github.com/u23urwurhuih/Fork84623/blob/main/q1/ctskillsBeryllium_LN.md
+https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q1/ctskillsBeryllium_LN.md
 
 **zodiac**:
-https://github.com/u23urwurhuih/Fork84623/blob/main/q1/zodiacBeryllium_LN/zodiacBeryllium_LN.py
-https://github.com/u23urwurhuih/Fork84623/blob/main/q1/zodiacBeryllium_LN/zodiacBeryllium_LN.md
+https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q1/zodiacBeryllium_LN/zodiacBeryllium_LN.py
+https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q1/zodiacBeryllium_LN/zodiacBeryllium_LN.md
