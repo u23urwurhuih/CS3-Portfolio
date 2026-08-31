@@ -16,7 +16,7 @@
 | calculate | Allows a user to compute for expressions in math |
 
 ## Class Diagram
-![Class Diagram](images/diagram.png)
+![Class Diagram](images/classD.png)
 
 ## Design Explanation
 ### Why did you choose this class?
