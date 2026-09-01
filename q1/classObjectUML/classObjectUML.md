@@ -10,10 +10,13 @@
 | brand    | str       | The brand where the calculator is from|
 | price    | int       | How much the calculator is costed about|
 | lowbattery | boolean | If the calculator is low or high in battery|
+| color    | str       | The color of the calculator |
 
 ## Methods
 | Method | Description |
 | calculate | Allows a user to compute for expressions in math |
+| turnon    | Allows to turn on the calculator for use |
+| changemode| Allows to change what mode to use, whether for science, math, etc |
 
 ## Class Diagram
 ![Class Diagram](https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q1/images/classD.png)
