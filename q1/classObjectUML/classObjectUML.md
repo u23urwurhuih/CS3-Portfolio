@@ -25,6 +25,6 @@
 ### Why did you choose this class?
 - As this class is a common item found in school bags, which students use scientifically for math and physics, so the calculator can compute for the values automatically.
 ### Which property is the most important? Why?
-- lowbattery, as this property determines if the calculator will function or not due to its battery percentage.
+- turnon method, as it will determine whether you will use the calculator by turning it on or off.
 ### Which method is the most useful? Why?
 - calculate, as this is the sole purpose of the calculator upon use.
