@@ -6,14 +6,8 @@ class Calculator:
         self.__private_attribute = price
         self.pencilC = None
 
-    def color(self, color_ref):
-        self.attribute1 = color_ref
-
-    def price(self, price_ref):
-        self.__private_attribute = price_ref
-
-    def lowbattery(self, low_ref):
-        self.attribute2 = low_ref
+    def display_size(self, att):
+        print(f"Size of pencil case accessed through calculator: {att}")
       
 class PencilCase:
     def __init__(self, size, broken, price):
@@ -22,14 +16,8 @@ class PencilCase:
         self.__private_attribute = price
         self.calc = None
 
-    def size(self, size_ref):
-        self.attribute1 = size_ref
-
-    def price(self, price_ref):
-        self.__private_attribute = price_ref
-
-    def broken(self, broken_ref):
-        self.attribute2 = broken_ref
+    def display_lowbattery(self, att):
+        print(f"Low battery variable of calculator accessed through pencil case: {att}")
 
 #--- BUILDING RELATIONSHIP ---
 calc = Calculator("red", True, 1200)
@@ -39,8 +27,8 @@ calc.pencilC = pencilC
 pencilC.calc = calc
 
 #--- AFTER RELATIONSHIP ---
-print(f"Size of pencil case accessed through calculator: {calc.pencilC.attribute1}")
-print(f"Low battery variable of calculator accessed through pencil case: {pencilC.calc.attribute2}")
+pencilC.display_lowbattery(pencilC.calc.attribute2)
+calc.display_size(calc.pencilC.attribute1)
 
 #Related object(s):
 # Pencil Case and Calculator
