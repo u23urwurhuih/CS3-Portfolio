@@ -30,16 +30,16 @@ Explanation: As each pencil case usually stores one calculator.
 
 ## Analysis
 ### What is the association between your two classes?
-A pencil case includes a calculator
+A pencil case includes a calculator. By this, the pencil case holds things such as a calculator. The calculator is used for calculation, and to be safekeeped, the pencil case is used.
 
 ### What multiplicity did you choose and why?
-one-to-one, as each pencil case usually stores one calculator
+one-to-one, as each pencil case usually stores one calculator. As a pencil case does not regularly store one calculator. Two calculators in one pencil case is redundant.
 
 ### How did you implement the relationship in Python?
-through accessing an attribute by connecting 2 classes. Like class1.class2.attribute
+Through accessing an attribute by connecting 2 classes. Like for example: class1.class2.attribute. This is by assigning class1.class2 to class2 to then get to the attribute of class 2.
 
 ### Why did you store an object reference instead of copying its data?
-So the reference can be used through another class
+So the reference can be used through another class. By copying its data the reference is not used, but a new one is made. Through an object reference, can other classes access attributes of other classes.
 
 ### If your relationship uses many, why is a list appropriate?
 So all attributes can be accessed, which the list holds all the attributes to be referenced.
