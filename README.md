@@ -19,3 +19,6 @@ https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q1/classAttributesMethod
 
 **oop act 3**:
 https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q1/classRelationships.md
+
+**oop act 4**:
+https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q1/advancedRelationships.md
