@@ -22,3 +22,6 @@ https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q1/classRelationships.md
 
 **oop act 4**:
 https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q1/advancedRelationships.md
+
+**sg8 encapsulation**:
+https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q2/sg8_encapsulation.py
