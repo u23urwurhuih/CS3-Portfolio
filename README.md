@@ -25,3 +25,6 @@ https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q1/advancedRelationships
 
 **sg8 encapsulation**:
 https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q2/sg8_encapsulation.py
+
+**sg9 inheritance**:
+https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q2/sg9_inheritance.py
