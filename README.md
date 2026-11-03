@@ -1,5 +1,7 @@
 ## COMPUTER SCIENCE 3 PORTFOLIO
 
+# 1st Quarter
+
 **github repository**:
 https://github.com/u23urwurhuih/CS3-Portfolio/
 
@@ -25,8 +27,13 @@ https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q1/classRelationships.md
 **oop act 4**:
 https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q1/advancedRelationships.md
 
+# 2nd Quarter
+
 **sg8 encapsulation**:
 https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q2/sg8_encapsulation.py
 
 **sg9 inheritance**:
 https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q2/sg9_inheritance.py
+
+**sg10 method overriding**:
+https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q2/sg10_method%20overriding.py
