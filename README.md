@@ -1,6 +1,6 @@
-## COMPUTER SCIENCE 3 PORTFOLIO
+# COMPUTER SCIENCE 3 PORTFOLIO
 
-# 1st Quarter
+### 1st Quarter
 
 **github repository**:
 https://github.com/u23urwurhuih/CS3-Portfolio/
@@ -27,7 +27,7 @@ https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q1/classRelationships.md
 **oop act 4**:
 https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q1/advancedRelationships.md
 
-# 2nd Quarter
+### 2nd Quarter
 
 **sg8 encapsulation**:
 https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q2/sg8_encapsulation.py
