@@ -38,3 +38,12 @@ https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q2/sg9_inheritance.py
 
 **sg10 method overriding**:
 https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q2/sg10_method%20overriding.py
+
+**sg11 polymorphism activity 1**:
+https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q2/sg11_activity%201.py
+
+**sg11 polymorphism activity 2 py**:
+https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q2/sg11_activity%202.py
+
+**sg11 polymorphism activity 2 md**:
+https://github.com/u23urwurhuih/CS3-Portfolio/blob/main/q2/sg11_activity%202.md
